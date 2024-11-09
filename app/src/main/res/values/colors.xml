@@ -1,0 +1,32 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="lightBackground">#FFFFFF</color>
+    <color name="darkText">#444444</color>
+    <color name="buttonColor">#6200EE</color>
+    <color name="buttonPressedColor">#3700B3</color>
+    <color name="backgroundColor">#9398CF</color>
+    <color name="questionBackgroundColor">#FEFAEE</color>
+    <color name="answerBackgroundColor">#D7DCFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_200">#E0E0E0</color>
+    <color name="primary">#6200EE</color>
+    <color name="primaryVariant">#3700B3</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="secondaryVariant">#018786</color>
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="onSecondary">#000000</color>
+    <color name="onBackground">#000000</color>
+    <color name="onSurface">#000000</color>
+    <color name="onError">#FFFFFF</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+
+
+</resources>
