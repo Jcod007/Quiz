@@ -2,6 +2,7 @@ package com.example.superquiz;
 
 import android.os.Bundle;
 
+import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
 import android.view.LayoutInflater;
@@ -35,6 +36,7 @@ public class QuizFragment extends Fragment {
      * @return A new instance of fragment QuizFragment.
      */
     // TODO: Rename and change types and number of parameters
+    @NonNull
     public static QuizFragment newInstance() {
         QuizFragment fragment = new QuizFragment();
         return fragment;
